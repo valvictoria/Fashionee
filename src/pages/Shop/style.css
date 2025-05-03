@@ -1,0 +1,8 @@
+.showcase-container {
+    margin: 200px auto 0;
+}
+
+.shop {
+    display: flex;
+    gap: 50px;
+}
